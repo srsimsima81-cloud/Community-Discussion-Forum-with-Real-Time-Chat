@@ -1,0 +1,28 @@
+# dependencies
+node_modules/
+
+# env files
+.env
+
+# logs
+logs
+*.log
+npm-debug.log*
+
+# build output (React)
+client/build/
+dist/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+
+# runtime
+coverage/
+
+
+dump/
