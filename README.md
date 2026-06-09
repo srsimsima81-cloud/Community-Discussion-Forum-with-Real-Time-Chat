@@ -26,7 +26,7 @@ Authentication: JWT (JSON Web Token)
 ---
 
 ## Project Structure
-
+```
 project-root/
 client/
 src/
@@ -43,7 +43,7 @@ middleware/
 server.js
 .env
 README.md
-
+```
 ---
 
 ## Installation & Setup
